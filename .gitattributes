@@ -1,2 +1,2 @@
-notebooks/*.ipynb linguist-language=Jupyter Notebook
 *.ipynb linguist-language=Jupyter Notebook
+*.ipynb linguist-vendored=false
